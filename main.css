@@ -70,4 +70,13 @@
 	text-align: center;
 }
 
+.btn {
+    display: inline-block; 
+    background: #8C959D; 
+    color: #fff; 
+    padding: 8px;
+    text-decoration: none; 
+	border-radius: 3px; 
+}
+
 
